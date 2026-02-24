@@ -38,7 +38,7 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
-#### Data Analysis & Visualization
+#### Data Analysis & Visualization  
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
   <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
