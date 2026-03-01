@@ -20,7 +20,7 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 When I'm not working with data, I enjoy play video game on my playstation. I get energized by the instant data transforms into meaningful insight.
 
 <!-- 🌐 Replace "Aubby10" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://Aubby10.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://aubby10.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
