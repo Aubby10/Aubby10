@@ -24,9 +24,9 @@ When I'm not working with data, I enjoy play video game on my playstation. I get
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Project A:** Predicting Heart Diseases Using Machine Learning With Linear Regression Model
+- **Project B:** 
+- **Content Creation:** 
 
 ## 🌱 Currently Learning 
 
