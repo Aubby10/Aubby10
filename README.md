@@ -25,13 +25,13 @@ When I'm not working with data, I enjoy play video game on my playstation. I get
 ## 🔭 What I'm Currently Working On 
 
 - **Project A:** Predicting Heart Diseases Using Machine Learning With Linear Regression Model
-- **Project B:** 
-- **Content Creation:** 
+- **Project B:** Loading....
+  
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Advanced machine learning techniques in Scikit-learn.
+- Cloud data warehousing with Google BigQuery.
 
 ## 🛠️ Technical Skillset
 
